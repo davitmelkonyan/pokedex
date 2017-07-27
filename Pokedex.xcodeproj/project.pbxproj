@@ -12,6 +12,7 @@
 		CA644CA41F2959A70004020B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA644CA21F2959A70004020B /* Main.storyboard */; };
 		CA644CA61F2959A70004020B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA644CA51F2959A70004020B /* Assets.xcassets */; };
 		CA644CA91F2959A70004020B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA644CA71F2959A70004020B /* LaunchScreen.storyboard */; };
+		CA644CB11F2967DD0004020B /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = CA644CB01F2967DD0004020B /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CA644CA51F2959A70004020B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA644CA81F2959A70004020B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CA644CAA1F2959A70004020B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CA644CB01F2967DD0004020B /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				CA644CA01F2959A70004020B /* ViewController.swift */,
 				CA644CA21F2959A70004020B /* Main.storyboard */,
 				CA644CA51F2959A70004020B /* Assets.xcassets */,
+				CA644CB01F2967DD0004020B /* pokemon.csv */,
 				CA644CA71F2959A70004020B /* LaunchScreen.storyboard */,
 				CA644CAA1F2959A70004020B /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				CA644CA91F2959A70004020B /* LaunchScreen.storyboard in Resources */,
 				CA644CA61F2959A70004020B /* Assets.xcassets in Resources */,
+				CA644CB11F2967DD0004020B /* pokemon.csv in Resources */,
 				CA644CA41F2959A70004020B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				CA644CAF1F2959A70004020B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
